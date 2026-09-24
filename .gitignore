@@ -1,0 +1,17 @@
+# ------------------------------------------------------------------
+# This repository contains ONLY Laddu, the AI chat widget / agent.
+# ------------------------------------------------------------------
+
+# The Paddu's Sweets website (kept local, not part of this repo)
+main.py
+index.html
+
+# Personal study notes (kept local)
+notes.md
+
+# Secrets and local environment - never upload these
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
